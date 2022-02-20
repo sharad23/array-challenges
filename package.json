@@ -1,0 +1,22 @@
+{
+  "name": "array-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "peak.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharad23/array-challenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharad23/array-challenges/issues"
+  },
+  "homepage": "https://github.com/sharad23/array-challenges#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
