@@ -6,4 +6,4 @@ jobs:
     steps:
       with:
         node-version: '14'
-      - run: node -v
+    - run: node -v
